@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // programmatically changing the device orientation
-        binding.rotateLayout.angle = 90 /*values must be 0 or 90 or 180 or 270*/
+        //binding.rotateLayout.angle = 90 /*values must be 0 or 90 or 180 or 270*/
 
     }
 
